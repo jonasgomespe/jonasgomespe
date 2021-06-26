@@ -7,4 +7,5 @@ Ola! meu nome é **Jonas gomes** sou um desenvolvedor full-stack com mais de 8 a
 - &#128187; Amo a área de desenvolvimento web.
 - &#128106; Gosto muito de passar o tempo com minha família.
 - &#127925; Gosto também de música
+
 [Linkedin](linkedin.com/in/jonas-gomes-2020)
