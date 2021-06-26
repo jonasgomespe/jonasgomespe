@@ -9,5 +9,5 @@ Ola! meu nome é **Jonas gomes** sou um desenvolvedor full-stack com mais de 8 a
 - &#127925; Gosto também de música
 
 
-![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/130px-LinkedIn_Logo.svg.png)
+![enter image jonasgomespe](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/130px-LinkedIn_Logo.svg.png)
 
