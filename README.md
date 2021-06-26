@@ -8,4 +8,5 @@ Ola! meu nome é **Jonas gomes** sou um desenvolvedor full-stack com mais de 8 a
 - &#128106; Gosto muito de passar o tempo com minha família.
 - &#127925; Gosto também de música
 
-[Linkedin](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/230px-LinkedIn_Logo.svg.png)(https://linkedin.com/in/jonas-gomes-2020)
+![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/130px-LinkedIn_Logo.svg.png)
+[Linkedin](https://linkedin.com/in/jonas-gomes-2020)
